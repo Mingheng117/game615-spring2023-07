@@ -10,7 +10,7 @@
 - Press "Space bar" to fire
 
 
-[**Playable link to game**](https://wy6714.github.io/game615-spring2023-06/exersice06/play/) 
+[**Playable link to game**](https://Mingheng117.github.io/game615-spring2023-07/exersice07/play/) 
 
 [**Link to source (GitHub page)**](https://github.com/Mingheng117/game615-spring2023-07/tree/main/exersice07) 
 
