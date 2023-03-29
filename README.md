@@ -2,12 +2,13 @@
 
 **Exercise 7:** _"Baked Pizza"_
 
+**The goal:** 
+ Bake pizza until it's cooked.
+
 **How to play:** 
 - W/S to forward/backward
 - Press "Space bar" to fire
 
-**The goal:** 
- Bake pizza until it's cooked.
 
 [**Playable link to game**](https://wy6714.github.io/game615-spring2023-06/exersice06/play/) 
 
