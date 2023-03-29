@@ -3,7 +3,8 @@
 **Exercise 7:** _"Baked Pizza"_
 
 **How to play:** 
- W/S to forward/backward. 
+
+W/S to forward/backward. 
  
  Press "Space bar" to fire.
 
