@@ -3,8 +3,8 @@
 **Exercise 7:** _"Baked Pizza"_
 
 **How to play:** 
--W/S to forward/backward
--Press "Space bar" to fire
+- W/S to forward/backward
+- Press "Space bar" to fire
 
 **The goal:** 
  Bake pizza until it's cooked.
