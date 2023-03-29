@@ -1,12 +1,14 @@
 # game615-spring2023-07
 
-**Exercise 7:** _"Untitled"_
+**Exercise 7:** _"Baked Pizza"_
 
 **How to play:** 
- Left click to move. Passing through the pill to collect it.
+ W/S to forward/backward. 
+ 
+ Press "Space bar" to fire.
 
 **The goal:** 
- Collecting the pill to win before zombie does.
+ Bake pizza until it's cooked.
 
 [**Playable link to game**](https://wy6714.github.io/game615-spring2023-06/exersice06/play/) 
 
